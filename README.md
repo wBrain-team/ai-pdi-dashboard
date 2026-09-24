@@ -27,7 +27,7 @@ O projeto utiliza IA para acelerar etapas de **estruturação, prototipação e 
 
 ## Como funciona
 
-O experimento é dividido em duas etapas principais:
+O experimento é dividido em algumas etapas principais:
 
 ```text
 Contexto profissional
@@ -58,7 +58,7 @@ ai-pdi-dashboard/
 ├── docs/
 │   └── experiment.md
 └── examples/
-    └── ana.md
+    └── anaflavia.md
 ```
 
 ### `prompts/`
@@ -80,7 +80,7 @@ Contém a documentação do experimento.
 
 Contém exemplos de aplicação dos templates.
 
-* [`ana.md`](examples/ana.md) — exemplo de aplicação dos prompts ao contexto da autora.
+* [`anaflavia.md`](examples/ana.md) — exemplo de aplicação dos prompts ao contexto da autora.
 
 ---
 
@@ -201,8 +201,6 @@ O projeto está sendo desenvolvido iterativamente. A estrutura, os prompts e o d
 * [ ] Refinar os prompts a partir das iterações.
 * [ ] Documentar os principais aprendizados do experimento.
 * [ ] Avaliar quais partes da abordagem podem ser reutilizadas.
-* [ ] Avaliar a possibilidade de compartilhar o experimento com outras pessoas da organização.
-
 ---
 
 ## Contexto
