@@ -302,7 +302,7 @@ Este é um experimento individual e não deve ser interpretado como evidência d
 
 ### Exemplo
 
-* [`Exemplo — Ana`](../examples/ana.md)
+* [`Exemplo — Ana`](../examples/anaflavia.md)
 
 ### Visão geral do projeto
 
