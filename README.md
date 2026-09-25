@@ -80,7 +80,7 @@ Contém a documentação do experimento.
 
 Contém exemplos de aplicação dos templates.
 
-* [`anaflavia.md`](examples/ana.md) — exemplo de aplicação dos prompts ao contexto da autora.
+* [`anaflavia.md`](examples/anaflavia.md) — exemplo de aplicação dos prompts ao contexto da autora.
 
 ---
 
