@@ -218,9 +218,7 @@ Principais objetivos profissionais:
 
 ## Meu PDI
 
-Utilize o PDI abaixo como uma das fontes principais para estruturar o dashboard:
-
-[INSERIR AQUI O PDI GERADO A PARTIR DO PROMPT DE PDI]
+Utilize o PDI em anexo como uma das fontes principais para estruturar o dashboard.
 
 ## O que quero acompanhar
 
