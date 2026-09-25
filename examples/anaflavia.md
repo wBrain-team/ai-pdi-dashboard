@@ -51,6 +51,7 @@ Conhecimentos e competências que gostaria de desenvolver:
 - Backend e APIs.
 - Frontend e integração entre frontend e backend.
 - Arquitetura de software.
+- Cibersegurança.
 - Bancos de dados e persistência.
 - Infraestrutura e cloud, especialmente AWS.
 - Desenvolvimento assistido por IA e uso de agentes de programação.
